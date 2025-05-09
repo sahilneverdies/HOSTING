@@ -1,6 +1,6 @@
 <!-- Banner Section (Replace URL with your own banner image if you have one) -->
 
-# Hi, I'm ApsXminer 👋
+# Hi, I'm  👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves solving problems with elegant code in **Python**, **Lua**, **HTML**, and **JavaScript**. When I'm not coding, I'm always exploring new tech and sharing ideas with the community.
 
